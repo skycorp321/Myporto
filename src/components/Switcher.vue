@@ -17,12 +17,7 @@
         <!-- Switcher -->
 
         <!-- LTR & RTL Mode Code -->
-        <div class="fixed top-[40%] -right-3 z-50" dir="ltr">
-            <a href="javascript:void(0)" id="switchRtl" @click="decrement">
-                <span class="py-1 px-3 relative inline-block rounded-t-md  -rotate-90 bg-white dark:bg-slate-900 shadow-md dark:shadow dark:shadow-gray-800 font-medium rtl:block ltr:hidden" @click="changeThem($event)">LTR</span>
-                <span class="py-1 px-3 relative inline-block rounded-t-md -rotate-90 bg-white dark:bg-slate-900 shadow-md dark:shadow dark:shadow-gray-800 font-medium ltr:block rtl:hidden" @click="changeThem($event)">RTL</span>
-            </a>
-        </div>
+
     </div>
 </template>
 
