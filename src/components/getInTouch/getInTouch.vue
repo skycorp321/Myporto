@@ -60,7 +60,7 @@
     
                                 <div class="flex-1 ms-6">
                                     <h5 class="text-[17px] dark:text-white mb-2 font-medium">Phone</h5>
-                                    <a href="tel:+62 859-7441-7702" class="text-slate-400 text-[15px]">+62 859-7441-7702</a>
+                                    <a href="tel:+62 851-1732-7071" class="text-slate-400 text-[15px]">+62 851-1732-7071</a>
                                 </div>
                             </div>
     
