@@ -82,7 +82,7 @@
     
                                 <div class="flex-1 ms-6">
                                     <h5 class="text-[17px] dark:text-white mb-2 font-medium">Location</h5>
-                                    <p class="text-slate-400 text-[15px] mb-2">Griya Asri 2 Housing Complex, Block G, Bekasi Regency, West Java, Indonesia 17510</p>
+                                    <p class="text-slate-400 text-[15px] mb-2">Bekasi, Indonesia</p>
                                 </div>
                             </div>
                         </div>
