@@ -6,7 +6,7 @@
         <div class="container">
             <div class="grid md:grid-cols-2 grid-cols-1 items-center gap-[30px]">
                 <div>
-                    <h4 class="font-bold lg:text-[32px] text-3xl lg:leading-normal leading-normal mb-4">Hey! I'mmmmmmmmmm
+                    <h4 class="font-bold lg:text-[32px] text-3xl lg:leading-normal leading-normal mb-4">Hey! I'm
                         <br>
                         <vue-typewriter-effect class="typewrite relative text-type-element  text-amber-500"
                             data-period="4000"
