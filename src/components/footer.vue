@@ -6,7 +6,7 @@
                     <div class="grid lg:grid-cols-12 md:grid-cols-3 grid-cols-1 items-center">
                         <div class="lg:col-span-3 md:text-start text-center">
                             <a href="#" class="text-[22px] focus:outline-none">
-                                <img src="../assets/images/logo-light.svg" class="mx-auto md:me-auto md:ms-0" alt="">
+                                <img src="../assets/images/my-logo.svg" class="mx-auto md:me-auto md:ms-0" alt="">
                             </a>
                         </div>
 
