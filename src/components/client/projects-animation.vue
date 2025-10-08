@@ -69,7 +69,7 @@ export default {
                 {
                     image: require('../../assets/images/works/2.png'),
                     name: 'Revou Capstone Project',
-                    languag: 'Power BI',
+                    languag: 'Data Analyst',
                     link: 'https://drive.google.com/file/d/1oWFS8BCOxGkkPaoOw2Gx3Eybkzaw3_Cy/view?usp=sharing'
                 },
                 {
