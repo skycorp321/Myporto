@@ -26,7 +26,7 @@
                         CV
                     </a>
 
-                    <a href="https://github.com/username" 
+                    <a href="https://github.com/skycorp321/" 
                         target="_blank"
                         class="btn bg-amber-500/10 hover:bg-amber-500 border-amber-500/10 
                             hover:border-amber-500 text-amber-500 hover:text-white 
