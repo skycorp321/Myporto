@@ -2,6 +2,7 @@
     <!-- Start -->
     <section class="relative md:py-24 py-16" id="project">
         <div class="container">
+            <!-- Header -->
             <div class="grid grid-cols-1 pb-8 text-center wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
                 <h3 class="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold">
                     My Work & Projects
@@ -24,14 +25,19 @@
                 >
                     <!-- Klik gambar langsung buka link -->
                     <a :href="item.link" target="_blank" rel="noopener noreferrer">
-                        <img :src="item.image" alt="" class="w-full h-full object-cover">
+                        <!-- ✅ Perbaikan agar gambar tidak terpotong -->
+                        <img 
+                            :src="item.image" 
+                            alt="" 
+                            class="w-full h-60 object-cover object-center rounded-t-lg"
+                        >
 
                         <!-- Overlay efek hover -->
                         <div
                             class="absolute inset-0 opacity-0 group-hover:opacity-100 bg-gradient-to-b to-slate-900 from-transparent transition-all duration-500">
                         </div>
 
-                        <!-- Info project -->
+                        <!-- Info Project -->
                         <div
                             class="absolute bottom-0 opacity-0 group-hover:opacity-100 m-6 transition-all duration-500">
                             <span class="text-white hover:text-amber-500 font-semibold transition-all duration-500">
@@ -54,7 +60,7 @@ export default {
         return {
             projects: [
                 {
-                    image: require('../../assets/images/works/1.jpg'),
+                    image: require('../../assets/images/works/1.png'),
                     name: 'Vegetables Classification Using CNN',
                     languag: 'Machine Learning',
                     link: 'https://builtbyariel.site/login'

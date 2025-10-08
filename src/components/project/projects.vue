@@ -2,7 +2,8 @@
     <!-- Start -->
     <section class="relative md:py-24 py-16" id="project">
         <div class="container">
-            <div class="grid grid-cols-1 pb-8 text-center">
+            <!-- Title & Subtitle -->
+            <div class="grid grid-cols-1 pb-8 text-center wow animate__animated animate__fadeInUp" data-wow-delay=".1s">
                 <h3 class="mb-6 md:text-2xl text-xl md:leading-normal leading-normal font-semibold">
                     My Work & Projects
                 </h3>
@@ -14,22 +15,34 @@
                 </p>
             </div>
 
+            <!-- Project Cards -->
             <div class="grid lg:grid-cols-4 md:grid-cols-3 grid-cols-1 mt-8 gap-[30px]">
                 <div
                     v-for="(item, index) in projects"
                     :key="index"
-                    class="relative group overflow-hidden rounded-lg shadow shadow-slate-200 dark:shadow-gray-800"
+                    class="relative group overflow-hidden rounded-lg shadow shadow-slate-200 dark:shadow-gray-800 wow animate__animated animate__fadeInUp"
+                    data-wow-delay=".3s"
                 >
-                    <!-- Gambar dan overlay dapat diklik -->
+                    <!-- Klik gambar langsung buka link -->
                     <a :href="item.link" target="_blank" rel="noopener noreferrer">
-                        <img :src="item.image" alt="">
+                        <!-- 🖼️ Perbaikan gambar agar tidak terpotong -->
+                        <img 
+                            :src="item.image" 
+                            alt="" 
+                            class="w-full h-60 object-cover object-center rounded-t-lg"
+                        >
+
+                        <!-- Overlay hover -->
                         <div
                             class="absolute inset-0 opacity-0 group-hover:opacity-100 bg-gradient-to-b to-slate-900 from-transparent transition-all duration-500">
                         </div>
+
+                        <!-- Teks info project -->
                         <div
                             class="absolute bottom-0 opacity-0 group-hover:opacity-100 m-6 transition-all duration-500">
-                            <span
-                                class="text-white hover:text-amber-500 font-semibold transition-all duration-500">{{ item.name }}</span>
+                            <span class="text-white hover:text-amber-500 font-semibold transition-all duration-500">
+                                {{ item.name }}
+                            </span>
                             <span class="block text-sm text-slate-400">{{ item.languag }}</span>
                         </div>
                     </a>
@@ -47,7 +60,7 @@ export default {
         return {
             projects: [
                 {
-                    image: require('../../assets/images/works/1.jpg'),
+                    image: require('../../assets/images/works/1.png'),
                     name: 'Vegetables Classification Using CNN',
                     languag: 'Machine Learning',
                     link: 'https://builtbyariel.site/login'
@@ -100,5 +113,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
