@@ -67,7 +67,7 @@ export default {
                     link: 'https://builtbyariel.site/login'
                 },
                 {
-                    image: require('../../assets/images/works/2.jpg'),
+                    image: require('../../assets/images/works/2.png'),
                     name: 'Landrick Theme',
                     languag: 'Technology',
                     link: 'https://yourwebsite.com/landrick'
@@ -77,36 +77,6 @@ export default {
                     name: 'Valexy Theme',
                     languag: 'Landing',
                     link: 'https://github.com/yourusername/valexy'
-                },
-                {
-                    image: require('../../assets/images/works/4.jpg'),
-                    name: 'Superex Theme',
-                    languag: 'Digital',
-                    link: 'https://github.com/yourusername/superex'
-                },
-                {
-                    image: require('../../assets/images/works/5.jpg'),
-                    name: 'Motos Theme',
-                    languag: 'Landing',
-                    link: 'https://yourwebsite.com/motos'
-                },
-                {
-                    image: require('../../assets/images/works/6.jpg'),
-                    name: 'Giglink Theme',
-                    languag: 'Digital',
-                    link: 'https://github.com/yourusername/giglink'
-                },
-                {
-                    image: require('../../assets/images/works/7.jpg'),
-                    name: 'Upwind Theme',
-                    languag: 'Landing',
-                    link: 'https://yourwebsite.com/upwind'
-                },
-                {
-                    image: require('../../assets/images/works/8.jpg'),
-                    name: 'Techwind Theme',
-                    languag: 'Multipurpose',
-                    link: 'https://github.com/yourusername/techwind'
                 },
             ]
         }
