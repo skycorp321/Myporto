@@ -73,10 +73,10 @@ export default {
                     link: 'https://drive.google.com/file/d/1oWFS8BCOxGkkPaoOw2Gx3Eybkzaw3_Cy/view?usp=sharing'
                 },
                 {
-                    image: require('../../assets/images/works/3.jpg'),
-                    name: 'Valexy Theme',
-                    languag: 'Landing',
-                    link: 'https://github.com/yourusername/valexy'
+                    image: require('../../assets/images/works/3.png'),
+                    name: 'Mojadiapp Final Project',
+                    languag: 'Data Analyst',
+                    link: 'https://drive.google.com/file/d/1jWZFb3ynsibystWu0VHyd7_ay1vBalp0/view?usp=sharing'
                 },
             ]
         }
