@@ -24,7 +24,8 @@
 
                                 <div class="ltr:float-left rtl:float-right text-start md:ms-8 mt-6 md:mt-0 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
                                     <h5 class="title mb-1 font-semibold">Freshgraduate in Informatics</h5>
-                                <p class="mt-3 mb-0 text-slate-400 text-[15px] text-justify">During my academic journey at Gunadarma University, I authored a scientific paper titled “Design of E-Library for IDX Investment Gallery Gunadarma University with QR Code Integration in Borrowing Transactions,” which explored the application of digital solutions to improve library services and user experience. For my thesis, I developed a “CNN-Based Classification System for Vegetable Types,” applying deep learning techniques to computer vision tasks. These academic projects strengthened my expertise in data analytics, machine learning, and practical technology integration.</p>                                </div>
+                                    <p class="mt-3 mb-0 text-slate-400 text-[15px] text-justify">During my academic journey at Gunadarma University, I authored a scientific paper titled “Design of E-Library for IDX Investment Gallery Gunadarma University with QR Code Integration in Borrowing Transactions,” which explored the application of digital solutions to improve library services and user experience. For my thesis, I developed a “CNN-Based Classification System for Vegetable Types,” applying deep learning techniques to computer vision tasks. These academic projects strengthened my expertise in data analytics, machine learning, and practical technology integration.</p>
+                                </div>
                             </div>
                         </div>
                         <!--End content-->
@@ -33,7 +34,7 @@
                         <div class="mt-12 ms-8 md:ms-0 relative after:content-[''] after:absolute after:top-[9px] after:rounded-full after:z-10 after:w-2.5 after:h-2.5 after:bg-amber-500 md:after:mx-auto ltr:md:after:right-0 ltr:md:after:left-0 ltr:after:-left-9 rtl:md:after:left-0 rtl:md:after:right-0 rtl:after:-right-9 before:content-[''] before:absolute md:before:mx-auto ltr:md:before:right-0 ltr:md:before:left-0 ltr:before:-left-11 rtl:md:before:left-0 rtl:md:before:right-0 rtl:before:-right-11 before:rounded-full before:z-10 before:border-2 before:border-dashed before:border-gray-200 dark:before:border-gray-700 before:top-0 before:w-7 before:h-7 before:bg-white dark:before:bg-slate-900">
                             <div class="grid md:grid-cols-2">
                                 <div class="text-start md:ms-8 relative md:order-2 wow animate__animated animate__fadeInUp" data-wow-delay=".7s">
-                                    <img src="../../assets/images/logos/revou.svg" class="rounded-full h-14 w-14 md:me-auto" alt="">
+                                    <img src="../../assets/images/logos/revou.png" class="rounded-full h-14 w-14 md:me-auto" alt="">
                                     <h5 class="my-2 font-semibold text-lg">RevoU Tech Academy X kampus Merdeka Batch 7</h5>
                                     <h6 class="text-sm mb-0">Sep 2024 – Dec 2024</h6>
                                     <h6 class="text-sm mb-0">Current GPA: 9.4 / 10.0</h6>
@@ -57,7 +58,7 @@
                                 </div>
 
                                 <div class="ltr:float-left rtl:float-right text-start md:ms-8 mt-6 md:mt-0 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
-                                    <<h5 class="title mb-1 font-semibold">Data Scientist & Analyst </h5>
+                                    <h5 class="title mb-1 font-semibold">Data Scientist & Analyst </h5>
                                     <p class="mt-3 mb-0 text-slate-400 text-[15px] text-justify">I completed a 14-week intensive program in data science, statistics, Python, R, Excel, RapidMiner, and Tableau, applying data cleaning, EDA, and visualization techniques to solve analytical challenges. For the Capstone Project, I analyzed Gen-Z e-learning adoption (134 respondents) using Google Forms, Python, Excel, and Tableau, uncovering regional differences between West and East Indonesia and recommending strategies to improve accessibility and user experience. This experience sharpened my expertise in data-driven decision-making, teamwork, and analytical storytelling.</p>
                                 </div>
                             </div>

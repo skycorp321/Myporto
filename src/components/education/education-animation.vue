@@ -34,7 +34,7 @@
                         <div class="mt-12 ms-8 md:ms-0 relative after:content-[''] after:absolute after:top-[9px] after:rounded-full after:z-10 after:w-2.5 after:h-2.5 after:bg-amber-500 md:after:mx-auto ltr:md:after:right-0 ltr:md:after:left-0 ltr:after:-left-9 rtl:md:after:left-0 rtl:md:after:right-0 rtl:after:-right-9 before:content-[''] before:absolute md:before:mx-auto ltr:md:before:right-0 ltr:md:before:left-0 ltr:before:-left-11 rtl:md:before:left-0 rtl:md:before:right-0 rtl:before:-right-11 before:rounded-full before:z-10 before:border-2 before:border-dashed before:border-gray-200 dark:before:border-gray-700 before:top-0 before:w-7 before:h-7 before:bg-white dark:before:bg-slate-900">
                             <div class="grid md:grid-cols-2">
                                 <div class="text-start md:ms-8 relative md:order-2 wow animate__animated animate__fadeInUp" data-wow-delay=".7s">
-                                    <img src="../../assets/images/logos/revou.svg" class="rounded-full h-14 w-14 md:me-auto" alt="">
+                                    <img src="../../assets/images/logos/revou.png" class="rounded-full h-14 w-14 md:me-auto" alt="">
                                     <h5 class="my-2 font-semibold text-lg">RevoU Tech Academy X kampus Merdeka Batch 7</h5>
                                     <h6 class="text-sm mb-0">Sep 2024 – Dec 2024</h6>
                                     <h6 class="text-sm mb-0">Current GPA: 9.4 / 10.0</h6>
