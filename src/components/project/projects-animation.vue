@@ -62,7 +62,7 @@ export default {
                 {
                     image: require('../../assets/images/works/1.png'),
                     name: 'Vegetables Classification Using CNN',
-                    languag: 'Machine Learning',
+                    languag: 'ML Engineer',
                     link: 'https://builtbyariel.site/login'
                 },
                 {
