@@ -17,7 +17,7 @@
                     Experienced in Analytics, Engineering, Science, and Machine Learning.</p>
 
                 <div class="mt-6 flex space-x-4">
-                    <a href="https://drive.google.com/file/d/174FBOs3EBAT65KGwQqHy0cFgGSA6QLzo/view?usp=sharing"
+                    <a href="https://drive.google.com/file/d/14x1e0J4pkilUG9CtCC2lwy1BFABgKOj9/view?usp=sharing"
                         target="_blank"
                         class="btn bg-amber-500/10 hover:bg-amber-500 border-amber-500/10 
                             hover:border-amber-500 text-amber-500 hover:text-white 
