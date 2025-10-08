@@ -68,9 +68,9 @@ export default {
                 },
                 {
                     image: require('../../assets/images/works/2.png'),
-                    name: 'Landrick Theme',
-                    languag: 'Technology',
-                    link: 'https://yourwebsite.com/landrick'
+                    name: 'Revou Capstone Project',
+                    languag: 'Power BI',
+                    link: 'https://drive.google.com/file/d/1oWFS8BCOxGkkPaoOw2Gx3Eybkzaw3_Cy/view?usp=sharing'
                 },
                 {
                     image: require('../../assets/images/works/3.jpg'),
