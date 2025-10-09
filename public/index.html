@@ -1,19 +1,92 @@
 <!DOCTYPE html>
-<html lang="" class="light scroll-smooth" dir="ltr">
+<html lang="id" class="light scroll-smooth" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title>Ariel - My Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css">
+    <!-- ✅ BASIC META -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="Ariel" />
+    <meta name="theme-color" content="#111827" />
+
+    <!-- ✅ TITLE & DESCRIPTION -->
+    <title>Ariel - My Portfolio | Web Developer & Data Enthusiast</title>
+    <meta
+      name="description"
+      content="Explore Ariel’s portfolio in data analytics, machine learning, and engineering where data meets innovation to create intelligent, data-driven solutions."
+    />
+    <meta
+      name="keywords"
+      content="Ariel, builtbyariel, Portfolio, Data Analyst, Data, Viral, Data Terbaru, Data Engineer, Data Scientist, Machine Lerning, ML Engineer"
+    />
+    <link rel="canonical" href="https://builtbyariel.com/" />
+
+    <!-- ✅ FAVICON -->
+    <link rel="icon" type="image/png" href="<%= BASE_URL %>favicon.png" sizes="48x48" />
+
+    <!-- ✅ OPEN GRAPH / FACEBOOK / LINKEDIN -->
+    <meta property="og:title" content="Ariel - My Portfolio | Web Developer & Data Enthusiast" />
+    <meta
+      property="og:description"
+      content="Explore Ariel’s works in web development, design, and data analytics. Built with creativity and technology."
+    />
+    <meta property="og:image" content="https://builtbyariel.com/preview.png" />
+    <meta property="og:url" content="https://builtbyariel.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="builtbyariel.com" />
+
+    <!-- ✅ TWITTER CARD -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Ariel - My Portfolio" />
+    <meta name="twitter:description" content="Showcasing web development and creative data projects." />
+    <meta name="twitter:image" content="https://builtbyariel.com/preview.png" />
+
+    <!-- ✅ STRUCTURED DATA (Schema.org JSON-LD) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "https://builtbyariel.com/#ariel",
+        "name": "Ariel",
+        "url": "https://builtbyariel.com",
+        "image": "https://builtbyariel.com/profile.jpg",
+        "jobTitle": "Web Developer & Data Enthusiast",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Freelance / Independent Projects"
+        },
+        "sameAs": [
+          "https://www.instagram.com/aaiielll/",
+          "https://linkedin.com/in/muhamad-ariel-dwi-prayoga/",
+          "https://github.com/skycorp321/"
+        ],
+        "description": "Portfolio website of Ariel — a Web Developer & Data Enthusiast specializing in front-end development and creative data visualization projects."
+      }
+    </script>
+
+    <!-- ✅ PWA MANIFEST -->
+    <link rel="manifest" href="<%= BASE_URL %>manifest.json" />
+
+    <!-- ✅ PERFORMANCE & STYLE -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css"
+    />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+
+    <!-- ✅ SAFETY: KEEP VUE PLACEHOLDER -->
+    <!-- DO NOT REMOVE THIS LINE -->
+    <!-- built files will be auto injected -->
   </head>
+
   <body class="font-poppins text-base text-black dark:text-white dark:bg-slate-900">
     <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+      <strong>
+            Sorry, this site requires JavaScript to display data visualizations and interactive features. 
+    Please enable JavaScript and reload the page.
+      </strong>
     </noscript>
     <div id="app"></div>
-    <!-- built files will be auto injected -->
   </body>
 </html>
+
