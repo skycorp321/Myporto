@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://builtbyariel.com/sitemap.xml
