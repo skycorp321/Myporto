@@ -77,6 +77,12 @@ export default {
                     languag: 'Data Analyst',
                     link: 'https://drive.google.com/file/d/1jWZFb3ynsibystWu0VHyd7_ay1vBalp0/view?usp=sharing'
                 },
+                {
+                    image: require('../../assets/images/works/4.png'),
+                    name: 'Dummy Project',
+                    languag: 'Data Analyst',
+                    link: 'https://drive.google.com/file/d/11xO1Pq3e4-yWSHtQdgHV6xHC-Fj-CMhK/view?usp=sharing'
+                },
             ]
         }
     }
