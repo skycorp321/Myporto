@@ -42,7 +42,7 @@
                     <div
                         class="absolute lg:bottom-20 md:bottom-10 bottom-2 ltr:md:-left-5 ltr:left-2 rtl:md:-right-5 rtl:right-2 p-4 rounded-lg shadow-md dark:shadow-gray-800 bg-white dark:bg-slate-900 m-3 w-44 text-center">
                         <span class="text-3xl font-medium mb-0 flex justify-center"><count-up
-                                class="counter-value font-bold" :start-val="1" :end-val="3"></count-up>+</span>
+                                class="counter-value font-bold" :start-val="1" :end-val="4"></count-up>+</span>
                         <h6 class="text-sm text-slate-400 mt-1">Project Completed</h6>
                     </div>
 
