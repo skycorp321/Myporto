@@ -35,7 +35,7 @@
                             <div class="grid md:grid-cols-2">
                                 <div class="text-start md:ms-8 relative md:order-2 wow animate__animated animate__fadeInUp" data-wow-delay=".7s">
                                     <img src="../../assets/images/logos/revou.png" class="rounded-full h-14 w-14 md:me-auto" alt="">
-                                    <h5 class="my-2 font-semibold text-lg">RevoU Tech Academy X kampus Merdeka Batch 9</h5>
+                                    <h5 class="my-2 font-semibold text-lg">RevoU Tech Academy X kampus Merdeka Batch 7</h5>
                                     <h6 class="text-sm mb-0">Sep 2024 – Dec 2024</h6>
                                     <h6 class="text-sm mb-0">Current GPA: 9.4 / 10.0</h6>
                                 </div>
